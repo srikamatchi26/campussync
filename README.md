@@ -64,4 +64,4 @@ Follows a layered architecture: Controller → Service → Repository → Entity
 
 ## Author
 
-Srikmatchi — MCA, Anna University (CEG)
+Srikamatchi — MCA, Anna University (CEG)
